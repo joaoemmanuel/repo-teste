@@ -1,0 +1,2 @@
+# Teste
+print ("Configurando Ambiente")
